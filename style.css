@@ -40,14 +40,14 @@ th {
   font-weight: bold;
   text-align: left;
   margin-top: 3%;
-  margin-left: 0.5%;
+  margin-left: 1%;
 }
 
 .table-skills {
   font-weight: bold;
   text-align: left;
   margin-top: 3%;
-  margin-left: 0.5%;
+  margin-left: 1%;
   margin-bottom: 1%;
 }
 
@@ -68,5 +68,5 @@ th {
 }
 
 .end {
-  font-size: 0.9em;
+  font-size: 1em;
 }
